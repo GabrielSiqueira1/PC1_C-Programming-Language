@@ -1,0 +1,2 @@
+/home/gabriel/operating_systems/TP03_modulo_Linux/hello-1.o
+
